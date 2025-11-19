@@ -26,8 +26,8 @@ To check whether the given number is palindrome or not.
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: GOGINENI BIDHISHA
+RegisterNumber:  212223040048
 */
 ```
 
@@ -77,4 +77,5 @@ public class PalindromeNumber {
 
 ## RESULT:
 The program successfully checks the given number and displays whether it is a Palindrome or not.
+
 
