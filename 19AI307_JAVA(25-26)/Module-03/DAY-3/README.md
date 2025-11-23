@@ -103,8 +103,10 @@ public class Main {
 
 ## OUTPUT:
 
-![Uploading image.png…]()
+<img width="411" height="212" alt="image" src="https://github.com/user-attachments/assets/b7340336-aebd-4242-ab43-b94fe650cc3b" />
+
 
 
 ## RESULT:
 The program is implemented successfully.
+
