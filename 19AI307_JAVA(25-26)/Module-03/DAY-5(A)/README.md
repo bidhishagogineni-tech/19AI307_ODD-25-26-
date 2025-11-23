@@ -10,9 +10,13 @@ To write a Java program that defines an enum named GameLevel with constants EASY
 
 ## ALGORITHM :
 1.Read a string (game level) from the user.
+
 2.Convert the input to uppercase.
+
 3.Use the enum GameLevel to get the matching constant.
+
 4.Print the selected game level.
+
 5.End program.
 
 ## PROGRAM:
@@ -72,3 +76,4 @@ public class GameLevelDemo {
 ## RESULT:
 
      The program is implemented successfully.
+
